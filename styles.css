@@ -67,11 +67,11 @@ header {
 }
 header .profile-image {
   margin-top: 50px;
-  width: 180px;
-  height: 220px;
+  width: 160px;
+  height: 200px;
   border-radius: 50%;
   border: 1px solid white;
-  transition: all .8s;
+  transition: all .4s;
 }
 header .profile-image:hover {
   transform: scale(1.2) rotate(7deg);
